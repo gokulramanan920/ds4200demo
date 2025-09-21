@@ -1,5 +1,5 @@
 """
-Gokul Ramanan and Pranav Thamil
+Gokul Ramanan
 9/18/25
 DS 4200
 """
